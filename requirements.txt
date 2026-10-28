@@ -1,0 +1,7 @@
+Flask==3.1.3
+Flask-WTF==1.3.0
+APScheduler==3.11.3
+tzdata==2026.5
+pywebpush==2.5.0
+waitress==3.0.2
+pytest==9.1.1
